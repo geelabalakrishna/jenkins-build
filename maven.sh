@@ -10,3 +10,4 @@ export MAVEN_HOME=/tmp/$MAVEN_DIR
 export PATH=$MAVEN_HOME/bin:$PATH
 echo "maven install sucessfully"
 mvn --version
+env
